@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#1c2025"/>
+  <g stroke="#58636b" opacity=".55"><path d="M0 120h900M0 240h900M0 360h900M0 480h900"/><path d="M150 0v600M300 0v600M450 0v600M600 0v600M750 0v600"/></g>
+  <circle cx="430" cy="290" r="155" fill="none" stroke="#c7f36b" stroke-width="4"/><circle cx="430" cy="290" r="8" fill="#c7f36b"/>
+  <path d="M430 290 665 135M430 290 237 422" stroke="#c7f36b" stroke-width="3"/>
+  <rect x="70" y="54" width="240" height="94" fill="#272d31" stroke="#748089"/><text x="92" y="92" fill="#d7e0e4" font-family="monospace" font-size="16">REGION FILTER</text><text x="92" y="123" fill="#c7f36b" font-family="monospace" font-size="19">24 ms / EU WEST</text>
+  <text x="70" y="555" fill="#c7f36b" font-family="monospace" font-size="18" letter-spacing="3">04 / NETWORKING</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 900">
+  <rect width="720" height="900" fill="#d6d5cf"/>
+  <path d="M0 660 190 430l115 76 95-178 320 272v300H0z" fill="#9da294"/>
+  <circle cx="368" cy="292" r="126" fill="#343832"/>
+  <path d="M188 760c25-183 111-268 181-268 75 0 165 91 180 268z" fill="#242723"/>
+  <path d="M232 272c29-105 235-137 277 15-60-52-178-48-277-15z" fill="#171817"/>
+  <path d="M0 85h720M0 145h720M0 205h720" stroke="#f1eee7" stroke-opacity=".35"/>
+  <text x="34" y="844" fill="#f1eee7" font-family="monospace" font-size="20" letter-spacing="3">MH / BUILDER</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 640">
+  <rect width="520" height="640" fill="#171916"/>
+  <text x="28" y="48" fill="#d7f56c" font-family="monospace" font-size="17">SERVER LOG</text>
+  <g fill="#b8d56a" font-family="monospace" font-size="14">
+    <text x="28" y="100">named pipe server started</text><text x="28" y="136">listening on port 8080</text><text x="28" y="172">proxy dll connected</text><text x="28" y="208">virtual device opened</text><text x="28" y="244">key image updated</text>
+  </g>
+  <path d="M28 285h464" stroke="#b8d56a" opacity=".5"/>
+  <rect x="28" y="335" width="464" height="180" fill="#242b21" stroke="#b8d56a"/>
+  <circle cx="106" cy="425" r="42" fill="#b8d56a"/><path d="M106 399v52M80 425h52" stroke="#171916" stroke-width="8"/>
+  <text x="28" y="590" fill="#7e9270" font-family="monospace" font-size="14">LOCAL / PRIVATE BUILD</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 650">
+  <rect width="720" height="650" fill="#c7f36b"/>
+  <path d="M68 80h584M68 140h584M68 200h584" stroke="#171817" stroke-opacity=".35"/>
+  <path d="M110 510V220h55l96 142 96-142h55v290h-55V306l-96 143-96-143v204z" fill="#171817"/>
+  <text x="70" y="585" fill="#171817" font-family="monospace" font-size="18" letter-spacing="3">PORTFOLIO / OG IMAGE</text>
+</svg>

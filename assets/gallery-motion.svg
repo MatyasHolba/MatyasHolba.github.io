@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 650">
+  <rect width="720" height="650" fill="#171817"/>
+  <circle cx="360" cy="300" r="190" fill="none" stroke="#c7f36b" stroke-width="2"/><circle cx="360" cy="300" r="132" fill="none" stroke="#777872" stroke-width="2"/><path d="M80 300h560M360 40v520" stroke="#777872"/>
+  <rect x="276" y="216" width="168" height="168" fill="#c7f36b" transform="rotate(45 360 300)"/><circle cx="360" cy="300" r="26" fill="#171817"/>
+  <text x="34" y="610" fill="#c7f36b" font-family="monospace" font-size="18" letter-spacing="3">MOTION / SIGNAL STUDY</text>
+</svg>

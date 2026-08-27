@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#e3e0d7"/>
+  <rect x="103" y="85" width="694" height="380" fill="#f3f1e9" stroke="#55594f" stroke-width="2"/>
+  <path d="M103 170h694" stroke="#9ea195" stroke-width="2"/><text x="137" y="140" fill="#55594f" font-family="monospace" font-size="18">ANKI / AUDIO PIPELINE</text>
+  <g fill="#687d00"><rect x="150" y="225" width="132" height="92"/><rect x="330" y="225" width="132" height="92"/><rect x="510" y="225" width="132" height="92"/></g>
+  <g fill="#f3f1e9" font-family="monospace" font-size="16"><text x="181" y="275">TEXT</text><text x="363" y="275">PIPER</text><text x="539" y="275">AUDIO</text></g>
+  <path d="M282 271h48M462 271h48" stroke="#55594f" stroke-width="3"/>
+  <text x="108" y="555" fill="#55594f" font-family="monospace" font-size="18" letter-spacing="3">05 / OFFLINE TTS</text>
+</svg>
